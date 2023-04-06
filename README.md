@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**daipeihust/daipeihust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daipeihust/daipeihust** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on engineering of human being's souls
 - 🌱 I’m currently learning Python
