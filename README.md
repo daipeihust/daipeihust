@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**daipeihust/daipeihust** is a ✨ _special_ ✨ repository.
+**Steve Dai** is a ✨ _interesting_ ✨ guy.
 
 - 🔭 I’m currently working on engineering of human being's souls
 - 🌱 I’m currently learning Python
