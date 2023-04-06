@@ -8,5 +8,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: daipeihust@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Coding is fantastic
+- ⚡ Fun fact: Liwan is a pretty girl
 
