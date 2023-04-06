@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Steve Dai** is a ✨ _interesting_ ✨ guy.
+**Steve Dai** is a ✨ interesting ✨ guy.
 
 - 🔭 I’m currently working on engineering of human being's souls
 - 🌱 I’m currently learning Python
