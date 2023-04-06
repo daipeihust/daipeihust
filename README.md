@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: @liwan is a pretty girl!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daipeihust&theme=onedark&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daipeihust&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=daipeihust&show_icons=true&count_private=true" />
