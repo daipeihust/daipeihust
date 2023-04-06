@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/13344830/230511161-8eccdb8e-a8f5-4dc2-9963-9028145ff297.png)
 
 **Steve Dai** is a ✨ interesting ✨ guy.
 
