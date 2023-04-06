@@ -1,10 +1,6 @@
 ![image](https://user-images.githubusercontent.com/13344830/230511161-8eccdb8e-a8f5-4dc2-9963-9028145ff297.png)
 
 - 🔭 I’m currently working on engineering of human being's souls
-- 🌱 I’m currently learning Python
-- 💬 Ask me about Vim
-- 📫 How to reach me: daipeihust@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: @liwan is a pretty girl!
 
 <h3 align="left">Languages and Tools:</h3>
