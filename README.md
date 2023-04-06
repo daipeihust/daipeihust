@@ -11,8 +11,8 @@
 - ⚡ Fun fact:  is a pretty girl!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=daipeihust&show_icons=true" />
+  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=daipeihust&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daipeihust&layout=compact" />
+  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daipeihust&layout=compact" />
 </a>
