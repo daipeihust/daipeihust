@@ -13,5 +13,8 @@ Hi 👋, I'm Steve Dai
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daipeihust&layout=compact" />
 </a>
 
+
+<h3 align="left">🏆🏆🏆</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=daipeihust&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
