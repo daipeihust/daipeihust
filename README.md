@@ -1,7 +1,7 @@
 Hi 👋, I'm Steve Dai
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=daipeihust&show_icons=true&count_private=true" />
+  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=daipeihust&show_icons=true&count_private=true&theme=dracula" />
 </a> 
 I was a iOS developer. I was working in Alibaba after I graduated from Huazhong University of Science and Technology, and then I jumped to Tencent.
 I like coding very much. In addition, I like pingpang tennis, swimming, running, skateboarding. 
