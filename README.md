@@ -7,9 +7,7 @@ And now, I'm falling in love. My girl is also a programmer, I love her and I wan
 
 
 
-- 🔭 I’m currently working on engineering of human being's souls 
-
-- ⚡ Fun fact: [@liwan](https://github.com/liwanwhu) is a pretty girl!
+- 🔭 I’m currently working on driveless chip
 
 
 <h3 align="left">Languages and Tools:</h3>
