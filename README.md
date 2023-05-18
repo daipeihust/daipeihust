@@ -7,7 +7,7 @@ And now, I'm falling in love. My girl is also a programmer, I love her and I wan
 
 
 
-- 🔭 I’m currently working on driveless chip
+- 🔭 I’m currently working on driveless car's microchip!
 
 
 <h3 align="left">Languages and Tools:</h3>
