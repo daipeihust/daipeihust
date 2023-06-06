@@ -27,4 +27,4 @@ And now, I'm falling in love. My girl is also a programmer, I love her and I wan
 <h3 align="left">🏆🏆🏆</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daipeihust&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daipeihust&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
