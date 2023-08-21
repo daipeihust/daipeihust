@@ -1,6 +1,7 @@
 Hi 👋, I'm Steve Dai
 
 I was a iOS developer. I was working in Alibaba after I graduated from Huazhong University of Science and Technology, and then I jumped to Tencent.
+For now, I'm majoring in Self-driving car microchip in Huawei Co.
 I like coding very much. In addition, I like pingpang tennis, swimming, running, skateboarding. 
 I like writing as well, you can follow my wechat official account: @steve_dai. 
 And now, I'm falling in love. My girl is also a programmer, I love her and I wana marry her!
